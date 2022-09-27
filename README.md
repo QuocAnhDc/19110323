@@ -1,12 +1,12 @@
 README
-* Chạy các lệnh sau để khởi tạo project
-* Bản node đang chạy 16.13.2
-```
+
+sử dụng node 16 trở lên
+chạy các lệnh sau để chạy prj
+
 yarn 
 yarn dev
-```
-Hoặc
-```
+
+hoặc
+
 npm install
 npm dev
-```
