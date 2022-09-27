@@ -1,0 +1,17 @@
+GET http://localhost:5000/
+
+###
+
+GET http://localhost:5000/19110327/19110373
+
+###
+POST http://localhost:5000/19110327/19110373
+
+###
+GET http://localhost:5000/message
+
+###
+
+GET http://localhost:5000/message/19110373
+
+###
